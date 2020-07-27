@@ -6,3 +6,4 @@
 - Regularizing Activation Distribution for Training Binarized Deep Networks, CVPR 2019
 - Model compression via distillation and quantization, ICLR 2018
 - Training Binary Neural Networks with Real-to-Binary Convolutions, ICLR 2020
+- Learning Channel-wise Interactions for Binary Convolutional Neural Networks, CVPR 2019
