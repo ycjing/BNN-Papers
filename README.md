@@ -7,3 +7,4 @@
 - Model compression via distillation and quantization, ICLR 2018 *
 - Training Binary Neural Networks with Real-to-Binary Convolutions, ICLR 2020 *
 - Learning Channel-wise Interactions for Binary Convolutional Neural Networks, CVPR 2019 *
+- Training Binary Neural Networks through Learning with Noisy Supervision, ICML 2020
